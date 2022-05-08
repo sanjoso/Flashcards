@@ -1,3 +1,5 @@
+# A Flashcards App Using React and Redux
+
 # To Run
 
 Run `npm start` in the project root and the app will be available on port 3000.
